@@ -1,0 +1,4 @@
+influxdb==2.8.0
+psutil==3.1.1
+PyYAML==3.11
+clint==0.5.1
